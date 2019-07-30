@@ -1,5 +1,0 @@
-To-do list!
-
-[try-to-do]
-Auto-Purge the Cache folder
-Auto-skip denied files without a message box

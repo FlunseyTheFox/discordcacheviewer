@@ -1,0 +1,4 @@
+Fixed a typo in the code causing an error message to show the wrong word formating.
+Added an custom error message for any log listing not having any log file to read from.
+Added a custom error message if the logs section was unable to connect to Github.
+Added some debugging features for development use. (Not Accessible To The Public)

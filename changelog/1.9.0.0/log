@@ -1,10 +1,10 @@
 Reworked how some of the code works to make it easier to add on to
 
-Made deployment easier for the crator
+Made deployment easier for the creator
 
-Added a reset settings button
+Added a reset settings button inside settings
 
-Added extra error message notifcations if developer mode is turned on (Display All Error Messages)
+Added extra error message notifcations if developer mode is turned on (Display All Error Messages) (Developer Only)
 
 Added a way for remote shutoff for some features incase a bug is discovered that might cause a machine-breaking bug
 

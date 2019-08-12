@@ -1,0 +1,5 @@
+Added a button to have the software start with Windows.
+Added a button to remove the program to not start with Windows.
+Added a optinal background auto-clear for Discord's cache.
+Rewrote the code to work if the user's drive is not C:\
+Please report bugs you find here:  https://forms.gle/3HaSJUCCqjvxgt5w7

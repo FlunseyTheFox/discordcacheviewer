@@ -1,0 +1,9 @@
+Fixes
+==
+Fixed an issue where in the background a message box would be displayed when running a background task.
+Fixed an issue issue with the copy button
+
+Added
+==
+Added support for Discord Public Test Build (PTB) and Discord Canary.
+

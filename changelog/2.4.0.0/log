@@ -1,0 +1,5 @@
+New:
+Added a customization option for the toolstrip. You can now turn off any options you don't use. Yay uncluttering.
+
+Fixed:
+Reset settings button crashing the program if there was no loaded image.

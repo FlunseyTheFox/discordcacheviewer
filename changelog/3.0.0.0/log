@@ -1,0 +1,8 @@
+Added:
+Added integration with "SoftwareManager"
+
+Fixed:
+Program Title was stuck at "C" so i've changed it back.
+
+Changes:
+If SoftwareManager is detected on your machine, DiscordCacheViewer will launch the Software Manager to check for updates if the user presses that button. If you are using DiscordCacheViewer without the SoftwareManager installed, updates will come in as it did before.
